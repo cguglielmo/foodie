@@ -1,0 +1,11 @@
+{
+  "id": "foodie.RecipeOutline",
+  "title": "${textKey:Recipes}",
+  "type": "model",
+  "nodes": [
+    {
+      "objectType": "PageWithTable",
+      "text": "${textKey:Recipes}"
+    }
+  ]
+}

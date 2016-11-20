@@ -1,0 +1,9 @@
+{
+	"id": "foodie.Desktop",
+    "title": "${textKey:Foodie}",
+    "objectType": "Desktop",
+    "type": "model",
+    "outline": {
+      "objectType": "foodie.RecipeOutline"
+    }
+}
